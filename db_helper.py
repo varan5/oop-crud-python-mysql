@@ -5,7 +5,7 @@ class DBHelper:
     def __init__(self):
         self.con = connector.connect(host='localhost',
                                     user='Varan',
-                                    password='123varan!@#',
+                                    password='hidden password',
                                     database='python_crud',
                                     auth_plugin='mysql_native_password')
         # cursor = self.con.cursor()
