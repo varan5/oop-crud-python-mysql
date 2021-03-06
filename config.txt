@@ -1,0 +1,3 @@
+# pip install mysql-connector-python
+
+# Note: use this command to install mysql and python connector object
